@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="corFundo">#A6E2FF</color>
+    <color name= "BotaoEntrar">#5E979D</color>
+    <color name="Cinza">#666666</color>
+    <color name="CinzaFonteMenu">#3C3C3C</color>
+    <color name="TelaAliment">#A4E9A6</color>
+    <color name="btRegistro">#478CD9</color>
+    <color name="TelaSono">#C5BDFA</color>
+    <color name="TelaConsultaMed">#FBD3D3</color>
+    <color name="vermelho_finalizar">#F44336</color>
+    <color name="vermelho_consultas">#FFB9B5</color>
+    <color name="TelaFraudas">#FDFAD5</color>
+</resources>

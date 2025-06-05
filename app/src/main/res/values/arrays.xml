@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tipos_alimentacao">
+        <item>Amamentação</item>
+        <item>Fórmula</item>
+        <item>Comida sólida</item>
+    </string-array>
+
+    <string-array name="tipos_fraldas">
+        <item>Urina</item>
+        <item>Fezes</item>
+        <item>Mista</item>
+    </string-array>
+</resources>
